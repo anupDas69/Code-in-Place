@@ -1,4 +1,4 @@
 # Final-Project
 
-This is the code for my final project that got published in the Stanford Code in Public Showcase
+This is the code for my final project that I made for Code in Place Summer Programming 
 
